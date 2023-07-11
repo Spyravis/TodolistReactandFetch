@@ -10,3 +10,32 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+
+body {
+    margin-top: 100px;
+    color:rgb(242, 147, 249);
+
+}
+
+ul{
+    padding: 0;
+    margin-bottom: 0;
+ 
+}
+
+ul li {
+    border: 1px solid rgb(255, 209, 246);
+    list-style: none;
+    padding: 6px;
+    color:rgb(80, 177, 209);
+    background:rgb(91, 211, 187);
+    
+}
+
+h1{ 
+    text-align:center;
+    color:rgb(227, 210, 177);
+}
+
+input {width:100%}
